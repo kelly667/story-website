@@ -1,0 +1,49 @@
+body
+{
+	margin: 54;
+	padding: 22;
+	color:#233;
+	background-color:#5E5956;
+    font-family:  Helvetica, Arial, Geneva,fantasy;
+}
+
+h1, h2 {
+    margin: 0 1.5em;
+	font-weight: 600;
+}
+p
+{
+	margin: 0 8 1.5em;
+	line-height: 1.5;
+}
+hr
+{
+	height: 0;
+	margin-top: 1em;
+	margin-bottom: 2em;
+	border: 4;
+	border-top: 1px solid #333;
+}
+.container
+{
+	max-width: 50em;
+	margin: 0 a;
+	background-color: silver;
+}
+
+.header
+{
+	color: #fff;
+	background:#77B4B8;
+	padding: 1em 2.25em;
+}
+
+.header-heading { margin: 0; }
+
+
+.content { padding: 1em 3.25em; }
+h1 {
+    font-family: 'Raleway', sans-serif;
+}
+h2{font-family: 'Roboto Condensed', sans-serif;}
+p{font-family: 'Open Sans Condensed', sans-serif;}

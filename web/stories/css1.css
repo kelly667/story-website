@@ -1,0 +1,33 @@
+body{
+	margin: 28;
+	padding: 0;
+	color: mediumblue;
+	background-color: lemonchiffon;
+	font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+}
+h1,h2 {
+	margin: 0 0 .60;
+	font-weight: 500;
+	line-height: 1.2;
+    text-decoration: none;
+}
+.container
+{
+	max-width: 120;
+	margin: 0 auto;
+}
+
+.header
+{
+	color: crimson;
+	background: #345;
+	padding: 1em 3.25em;
+}
+p{
+    padding: 4px 15px 4px 15px;
+}
+h1 a{
+    text-decoration: underline;
+    color:firebrick;
+}
+
